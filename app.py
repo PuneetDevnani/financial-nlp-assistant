@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # IMPORT YOUR MAIN PIPELINE
-from pipeline import bloomberg_pipeline
+from financial_nlp import bloomberg_pipeline
 
 # -----------------------------
 # OUTPUT DIRECTORY (LOCAL FIX)
